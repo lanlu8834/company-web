@@ -1,2 +1,4 @@
 # company-web
-A clean website for a company
+A clean one-page website for a company
+
+
